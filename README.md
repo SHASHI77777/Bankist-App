@@ -21,10 +21,10 @@ It demonstrates how users can interact with their accounts, perform various bank
 
 //sample username and password
 
-username 1- tt
+username 1- ss
 password - 1111
 
-username 2- ss
+username 2- tt
 password = 2222
 
 
