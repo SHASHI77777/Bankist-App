@@ -12,7 +12,7 @@ It demonstrates how users can interact with their accounts, perform various bank
 
 ->**Currency Formatting**: Formatted transaction amounts as currency using the appropriate locale and currency code.
 
-->**Summary Display**: Presented a summary of total deposits, withdrawals, and earned interest for each account.
+->**Summary Display**: Presented a summary of each account's total deposits, withdrawals, and earned interest.
 
 ->**Loan Request**: Enabled users to request loans, with validation based on previous transaction history.
 
@@ -26,6 +26,7 @@ password - 1111
 
 username 2- tt
 password = 2222
+
 
 
 Project sample 
